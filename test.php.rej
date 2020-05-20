@@ -1,0 +1,9 @@
+diff a/test.php b/test.php	(rejected hunks)
+@@ -3,5 +3,6 @@
+     echo 'tow';
+     echo 'three';
+     echo "fore";
+-   echo 'ss';
++    echo 'ss';
++    echo 'ddd';
+  ?>
