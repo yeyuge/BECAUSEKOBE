@@ -4,4 +4,5 @@
     echo 'three';
     echo "fore";
     echo 'fff';
+    echo 'ss';
  ?>
