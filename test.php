@@ -3,6 +3,5 @@
     echo 'tow';
     echo 'three';
     echo "fore";
-    echo 'ss';
-    echo 'ddd';
+    echo 'fff';
  ?>
